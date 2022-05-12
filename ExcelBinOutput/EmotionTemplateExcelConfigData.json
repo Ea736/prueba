@@ -1,0 +1,65 @@
+[
+    {
+        "ID": 10100,
+        "freeStyleId": 10100,
+        "bubbleName": "",
+        "emotionPath": "Cs_Emo_Avatar_Coop_Standby",
+        "protectTime": 0.5
+    },
+    {
+        "ID": 10101,
+        "freeStyleId": 10101,
+        "bubbleName": "",
+        "emotionPath": "Cs_Emo_Avatar_Coop_Smile01",
+        "protectTime": 0.5
+    },
+    {
+        "ID": 10201,
+        "freeStyleId": 10201,
+        "bubbleName": "EmojiBubble_Emoji_Happy",
+        "emotionPath": "Cs_Emo_Avatar_Coop_Happy01",
+        "protectTime": 0.5
+    },
+    {
+        "ID": 10301,
+        "freeStyleId": 10301,
+        "bubbleName": "EmojiBubble_Emoji_Sad",
+        "emotionPath": "Cs_Emo_Avatar_Coop_Sad01",
+        "protectTime": 0.5
+    },
+    {
+        "ID": 10401,
+        "freeStyleId": 10401,
+        "bubbleName": "EmojiBubble_Emoji_Love",
+        "emotionPath": "Cs_Emo_Avatar_Coop_Flipped01",
+        "protectTime": 0.5
+    },
+    {
+        "ID": 10501,
+        "freeStyleId": 10501,
+        "bubbleName": "EmojiBubble_Emoji_Angry",
+        "emotionPath": "Cs_Emo_Avatar_Coop_Angry01",
+        "protectTime": 0.5
+    },
+    {
+        "ID": 10601,
+        "freeStyleId": 10601,
+        "bubbleName": "EmojiBubble_Emoji_Thinking",
+        "emotionPath": "Cs_Emo_Avatar_Coop_Think01",
+        "protectTime": 0.5
+    },
+    {
+        "ID": 10701,
+        "freeStyleId": 10701,
+        "bubbleName": "EmojiBubble_Emoji_Surprise",
+        "emotionPath": "Cs_Emo_Avatar_Coop_Surprised01",
+        "protectTime": 0.5
+    },
+    {
+        "ID": 10801,
+        "freeStyleId": 10801,
+        "bubbleName": "",
+        "emotionPath": "Cs_Emo_Avatar_Coop_Shy01",
+        "protectTime": 0.5
+    }
+]

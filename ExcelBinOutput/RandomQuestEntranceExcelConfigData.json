@@ -1,0 +1,715 @@
+[
+    {
+        "id": 101,
+        "weight": 100,
+        "templateId": 30000,
+        "filterList": [
+            {
+                "OJBGDAFMKOF": "",
+                "PFDILADILAL": []
+            },
+            {
+                "OJBGDAFMKOF": "",
+                "PFDILADILAL": []
+            },
+            {
+                "OJBGDAFMKOF": "",
+                "PFDILADILAL": []
+            }
+        ]
+    },
+    {
+        "id": 102,
+        "weight": 100,
+        "templateId": 30001,
+        "filterLogicType": "LOGIC_AND",
+        "filterList": [
+            {
+                "IMJFHOBAKDI": "RQ_FILTER_PLAYER_POS_RING",
+                "OJBGDAFMKOF": "{QuestRescuePos}",
+                "PFDILADILAL": [
+                    40,
+                    100
+                ]
+            },
+            {
+                "IMJFHOBAKDI": "RQ_FILTER_NPC",
+                "OJBGDAFMKOF": "{QuestNpcID}",
+                "PFDILADILAL": []
+            },
+            {
+                "IMJFHOBAKDI": "RQ_FILTER_PLAYER_LEVEL",
+                "OJBGDAFMKOF": "{PlayerLevel}",
+                "PFDILADILAL": []
+            }
+        ]
+    },
+    {
+        "id": 102,
+        "weight": 100,
+        "templateId": 30002,
+        "filterLogicType": "LOGIC_AND",
+        "filterList": [
+            {
+                "IMJFHOBAKDI": "RQ_FILTER_PLAYER_POS_RING",
+                "OJBGDAFMKOF": "{QuestRescuePos}",
+                "PFDILADILAL": [
+                    40,
+                    100
+                ]
+            },
+            {
+                "IMJFHOBAKDI": "RQ_FILTER_NPC",
+                "OJBGDAFMKOF": "{QuestNpcID}",
+                "PFDILADILAL": []
+            },
+            {
+                "IMJFHOBAKDI": "RQ_FILTER_PLAYER_LEVEL",
+                "OJBGDAFMKOF": "{PlayerLevel}",
+                "PFDILADILAL": []
+            }
+        ]
+    },
+    {
+        "id": 101,
+        "weight": 100,
+        "templateId": 30003,
+        "filterLogicType": "LOGIC_AND",
+        "filterList": [
+            {
+                "IMJFHOBAKDI": "RQ_FILTER_PLAYER_POS_RING",
+                "OJBGDAFMKOF": "{QuestRescuePos}",
+                "PFDILADILAL": [
+                    40,
+                    100
+                ]
+            },
+            {
+                "IMJFHOBAKDI": "RQ_FILTER_NPC",
+                "OJBGDAFMKOF": "{QuestNpcID}",
+                "PFDILADILAL": []
+            },
+            {
+                "IMJFHOBAKDI": "RQ_FILTER_PLAYER_LEVEL",
+                "OJBGDAFMKOF": "{PlayerLevel}",
+                "PFDILADILAL": []
+            }
+        ]
+    },
+    {
+        "id": 102,
+        "weight": 100,
+        "templateId": 30004,
+        "filterLogicType": "LOGIC_AND",
+        "filterList": [
+            {
+                "IMJFHOBAKDI": "RQ_FILTER_PLAYER_POS_RING",
+                "OJBGDAFMKOF": "{QuestRescuePos}",
+                "PFDILADILAL": [
+                    40,
+                    100
+                ]
+            },
+            {
+                "IMJFHOBAKDI": "RQ_FILTER_NPC",
+                "OJBGDAFMKOF": "{QuestNpcID}",
+                "PFDILADILAL": []
+            },
+            {
+                "IMJFHOBAKDI": "RQ_FILTER_PLAYER_LEVEL",
+                "OJBGDAFMKOF": "{PlayerLevel}",
+                "PFDILADILAL": []
+            }
+        ]
+    },
+    {
+        "id": 101,
+        "weight": 100,
+        "templateId": 30005,
+        "filterLogicType": "LOGIC_AND",
+        "filterList": [
+            {
+                "IMJFHOBAKDI": "RQ_FILTER_PLAYER_POS_RING",
+                "OJBGDAFMKOF": "{QuestRescuePos}",
+                "PFDILADILAL": [
+                    40,
+                    100
+                ]
+            },
+            {
+                "IMJFHOBAKDI": "RQ_FILTER_NPC",
+                "OJBGDAFMKOF": "{QuestNpcID}",
+                "PFDILADILAL": []
+            },
+            {
+                "IMJFHOBAKDI": "RQ_FILTER_PLAYER_LEVEL",
+                "OJBGDAFMKOF": "{PlayerLevel}",
+                "PFDILADILAL": []
+            }
+        ]
+    },
+    {
+        "id": 102,
+        "weight": 100,
+        "templateId": 30006,
+        "filterLogicType": "LOGIC_AND",
+        "filterList": [
+            {
+                "IMJFHOBAKDI": "RQ_FILTER_PLAYER_POS_RING",
+                "OJBGDAFMKOF": "{QuestRescuePos}",
+                "PFDILADILAL": [
+                    40,
+                    100
+                ]
+            },
+            {
+                "IMJFHOBAKDI": "RQ_FILTER_NPC",
+                "OJBGDAFMKOF": "{QuestNpcID}",
+                "PFDILADILAL": []
+            },
+            {
+                "IMJFHOBAKDI": "RQ_FILTER_PLAYER_LEVEL",
+                "OJBGDAFMKOF": "{PlayerLevel}",
+                "PFDILADILAL": []
+            }
+        ]
+    },
+    {
+        "id": 101,
+        "weight": 100,
+        "templateId": 30007,
+        "filterLogicType": "LOGIC_AND",
+        "filterList": [
+            {
+                "IMJFHOBAKDI": "RQ_FILTER_PLAYER_POS_RING",
+                "OJBGDAFMKOF": "{QuestRescuePos}",
+                "PFDILADILAL": [
+                    40,
+                    100
+                ]
+            },
+            {
+                "IMJFHOBAKDI": "RQ_FILTER_NPC",
+                "OJBGDAFMKOF": "{QuestNpcID}",
+                "PFDILADILAL": []
+            },
+            {
+                "IMJFHOBAKDI": "RQ_FILTER_PLAYER_LEVEL",
+                "OJBGDAFMKOF": "{PlayerLevel}",
+                "PFDILADILAL": []
+            }
+        ]
+    },
+    {
+        "id": 102,
+        "weight": 100,
+        "templateId": 30011,
+        "filterLogicType": "LOGIC_AND",
+        "filterList": [
+            {
+                "IMJFHOBAKDI": "RQ_FILTER_PLAYER_POS_RING",
+                "OJBGDAFMKOF": "{QuestRescuePos}",
+                "PFDILADILAL": [
+                    40,
+                    100
+                ]
+            },
+            {
+                "IMJFHOBAKDI": "RQ_FILTER_NPC",
+                "OJBGDAFMKOF": "{QuestNpcID}",
+                "PFDILADILAL": []
+            },
+            {
+                "OJBGDAFMKOF": "",
+                "PFDILADILAL": []
+            }
+        ]
+    },
+    {
+        "id": 102,
+        "weight": 100,
+        "templateId": 30012,
+        "filterLogicType": "LOGIC_AND",
+        "filterList": [
+            {
+                "IMJFHOBAKDI": "RQ_FILTER_PLAYER_POS_RING",
+                "OJBGDAFMKOF": "{QuestRescuePos}",
+                "PFDILADILAL": [
+                    40,
+                    100
+                ]
+            },
+            {
+                "IMJFHOBAKDI": "RQ_FILTER_NPC",
+                "OJBGDAFMKOF": "{QuestNpcID}",
+                "PFDILADILAL": []
+            },
+            {
+                "OJBGDAFMKOF": "",
+                "PFDILADILAL": []
+            }
+        ]
+    },
+    {
+        "id": 101,
+        "weight": 100,
+        "templateId": 30013,
+        "filterLogicType": "LOGIC_AND",
+        "filterList": [
+            {
+                "IMJFHOBAKDI": "RQ_FILTER_PLAYER_POS_RING",
+                "OJBGDAFMKOF": "{QuestRescuePos}",
+                "PFDILADILAL": [
+                    40,
+                    100
+                ]
+            },
+            {
+                "IMJFHOBAKDI": "RQ_FILTER_NPC",
+                "OJBGDAFMKOF": "{QuestNpcID}",
+                "PFDILADILAL": []
+            },
+            {
+                "OJBGDAFMKOF": "",
+                "PFDILADILAL": []
+            }
+        ]
+    },
+    {
+        "id": 101,
+        "weight": 100,
+        "templateId": 30014,
+        "filterLogicType": "LOGIC_AND",
+        "filterList": [
+            {
+                "IMJFHOBAKDI": "RQ_FILTER_PLAYER_POS_RING",
+                "OJBGDAFMKOF": "{QuestRescuePos}",
+                "PFDILADILAL": [
+                    40,
+                    100
+                ]
+            },
+            {
+                "IMJFHOBAKDI": "RQ_FILTER_NPC",
+                "OJBGDAFMKOF": "{QuestNpcID}",
+                "PFDILADILAL": []
+            },
+            {
+                "OJBGDAFMKOF": "",
+                "PFDILADILAL": []
+            }
+        ]
+    },
+    {
+        "id": 102,
+        "weight": 100,
+        "templateId": 30015,
+        "filterLogicType": "LOGIC_AND",
+        "filterList": [
+            {
+                "IMJFHOBAKDI": "RQ_FILTER_PLAYER_POS_RING",
+                "OJBGDAFMKOF": "{QuestRescuePos}",
+                "PFDILADILAL": [
+                    40,
+                    100
+                ]
+            },
+            {
+                "IMJFHOBAKDI": "RQ_FILTER_NPC",
+                "OJBGDAFMKOF": "{QuestNpcID}",
+                "PFDILADILAL": []
+            },
+            {
+                "OJBGDAFMKOF": "",
+                "PFDILADILAL": []
+            }
+        ]
+    },
+    {
+        "id": 101,
+        "weight": 100,
+        "templateId": 30021,
+        "filterLogicType": "LOGIC_AND",
+        "filterList": [
+            {
+                "IMJFHOBAKDI": "RQ_FILTER_PLAYER_POS_RING",
+                "OJBGDAFMKOF": "{QuestRescuePos}",
+                "PFDILADILAL": [
+                    40,
+                    100
+                ]
+            },
+            {
+                "IMJFHOBAKDI": "RQ_FILTER_NPC",
+                "OJBGDAFMKOF": "{QuestNpcID}",
+                "PFDILADILAL": []
+            },
+            {
+                "IMJFHOBAKDI": "RQ_FILTER_NPC",
+                "OJBGDAFMKOF": "{QuestNpcID2}",
+                "PFDILADILAL": []
+            }
+        ]
+    },
+    {
+        "id": 102,
+        "weight": 100,
+        "templateId": 30022,
+        "filterLogicType": "LOGIC_AND",
+        "filterList": [
+            {
+                "IMJFHOBAKDI": "RQ_FILTER_PLAYER_POS_RING",
+                "OJBGDAFMKOF": "{QuestRescuePos}",
+                "PFDILADILAL": [
+                    40,
+                    100
+                ]
+            },
+            {
+                "IMJFHOBAKDI": "RQ_FILTER_NPC",
+                "OJBGDAFMKOF": "{QuestNpcID}",
+                "PFDILADILAL": []
+            },
+            {
+                "IMJFHOBAKDI": "RQ_FILTER_NPC",
+                "OJBGDAFMKOF": "{QuestNpcID2}",
+                "PFDILADILAL": []
+            }
+        ]
+    },
+    {
+        "id": 102,
+        "weight": 100,
+        "templateId": 30023,
+        "filterLogicType": "LOGIC_AND",
+        "filterList": [
+            {
+                "IMJFHOBAKDI": "RQ_FILTER_PLAYER_POS_RING",
+                "OJBGDAFMKOF": "{QuestRescuePos}",
+                "PFDILADILAL": [
+                    40,
+                    100
+                ]
+            },
+            {
+                "IMJFHOBAKDI": "RQ_FILTER_NPC",
+                "OJBGDAFMKOF": "{QuestNpcID}",
+                "PFDILADILAL": []
+            },
+            {
+                "IMJFHOBAKDI": "RQ_FILTER_NPC",
+                "OJBGDAFMKOF": "{QuestNpcID2}",
+                "PFDILADILAL": []
+            }
+        ]
+    },
+    {
+        "id": 101,
+        "weight": 100,
+        "templateId": 30024,
+        "filterLogicType": "LOGIC_AND",
+        "filterList": [
+            {
+                "IMJFHOBAKDI": "RQ_FILTER_PLAYER_POS_RING",
+                "OJBGDAFMKOF": "{QuestRescuePos}",
+                "PFDILADILAL": [
+                    40,
+                    100
+                ]
+            },
+            {
+                "IMJFHOBAKDI": "RQ_FILTER_NPC",
+                "OJBGDAFMKOF": "{QuestNpcID}",
+                "PFDILADILAL": []
+            },
+            {
+                "IMJFHOBAKDI": "RQ_FILTER_NPC",
+                "OJBGDAFMKOF": "{QuestNpcID2}",
+                "PFDILADILAL": []
+            }
+        ]
+    },
+    {
+        "id": 101,
+        "weight": 100,
+        "templateId": 30025,
+        "filterLogicType": "LOGIC_AND",
+        "filterList": [
+            {
+                "IMJFHOBAKDI": "RQ_FILTER_PLAYER_POS_RING",
+                "OJBGDAFMKOF": "{QuestRescuePos}",
+                "PFDILADILAL": [
+                    40,
+                    100
+                ]
+            },
+            {
+                "IMJFHOBAKDI": "RQ_FILTER_NPC",
+                "OJBGDAFMKOF": "{QuestNpcID}",
+                "PFDILADILAL": []
+            },
+            {
+                "IMJFHOBAKDI": "RQ_FILTER_NPC",
+                "OJBGDAFMKOF": "{QuestNpcID2}",
+                "PFDILADILAL": []
+            }
+        ]
+    },
+    {
+        "id": 103,
+        "weight": 10,
+        "templateId": 30026,
+        "filterLogicType": "LOGIC_AND",
+        "filterList": [
+            {
+                "IMJFHOBAKDI": "RQ_FILTER_PLAYER_POS_RING",
+                "OJBGDAFMKOF": "{QuestRescuePos}",
+                "PFDILADILAL": [
+                    40,
+                    100
+                ]
+            },
+            {
+                "IMJFHOBAKDI": "RQ_FILTER_NPC",
+                "OJBGDAFMKOF": "{QuestNpcID}",
+                "PFDILADILAL": []
+            },
+            {
+                "OJBGDAFMKOF": "",
+                "PFDILADILAL": []
+            }
+        ]
+    },
+    {
+        "id": 103,
+        "weight": 90,
+        "templateId": 30023,
+        "filterLogicType": "LOGIC_AND",
+        "filterList": [
+            {
+                "IMJFHOBAKDI": "RQ_FILTER_PLAYER_POS_RING",
+                "OJBGDAFMKOF": "{QuestRescuePos}",
+                "PFDILADILAL": [
+                    40,
+                    100
+                ]
+            },
+            {
+                "IMJFHOBAKDI": "RQ_FILTER_NPC",
+                "OJBGDAFMKOF": "{QuestNpcID}",
+                "PFDILADILAL": []
+            },
+            {
+                "IMJFHOBAKDI": "RQ_FILTER_NPC",
+                "OJBGDAFMKOF": "{QuestNpcID2}",
+                "PFDILADILAL": []
+            }
+        ]
+    },
+    {
+        "id": 104,
+        "weight": 10,
+        "templateId": 30027,
+        "filterLogicType": "LOGIC_AND",
+        "filterList": [
+            {
+                "IMJFHOBAKDI": "RQ_FILTER_PLAYER_POS_RING",
+                "OJBGDAFMKOF": "{QuestRescuePos1}",
+                "PFDILADILAL": [
+                    40,
+                    100
+                ]
+            },
+            {
+                "IMJFHOBAKDI": "RQ_FILTER_NPC",
+                "OJBGDAFMKOF": "{QuestNpcID}",
+                "PFDILADILAL": []
+            },
+            {
+                "OJBGDAFMKOF": "",
+                "PFDILADILAL": []
+            }
+        ]
+    },
+    {
+        "id": 104,
+        "weight": 90,
+        "templateId": 30023,
+        "filterLogicType": "LOGIC_AND",
+        "filterList": [
+            {
+                "IMJFHOBAKDI": "RQ_FILTER_PLAYER_POS_RING",
+                "OJBGDAFMKOF": "{QuestRescuePos}",
+                "PFDILADILAL": [
+                    40,
+                    100
+                ]
+            },
+            {
+                "IMJFHOBAKDI": "RQ_FILTER_NPC",
+                "OJBGDAFMKOF": "{QuestNpcID}",
+                "PFDILADILAL": []
+            },
+            {
+                "IMJFHOBAKDI": "RQ_FILTER_NPC",
+                "OJBGDAFMKOF": "{QuestNpcID2}",
+                "PFDILADILAL": []
+            }
+        ]
+    },
+    {
+        "id": 105,
+        "weight": 10,
+        "templateId": 30028,
+        "filterLogicType": "LOGIC_AND",
+        "filterList": [
+            {
+                "IMJFHOBAKDI": "RQ_FILTER_PLAYER_POS_RING",
+                "OJBGDAFMKOF": "{QuestRescuePos}",
+                "PFDILADILAL": [
+                    40,
+                    100
+                ]
+            },
+            {
+                "IMJFHOBAKDI": "RQ_FILTER_NPC",
+                "OJBGDAFMKOF": "{QuestNpcID}",
+                "PFDILADILAL": []
+            },
+            {
+                "OJBGDAFMKOF": "",
+                "PFDILADILAL": []
+            }
+        ]
+    },
+    {
+        "id": 105,
+        "weight": 90,
+        "templateId": 30023,
+        "filterLogicType": "LOGIC_AND",
+        "filterList": [
+            {
+                "IMJFHOBAKDI": "RQ_FILTER_PLAYER_POS_RING",
+                "OJBGDAFMKOF": "{QuestRescuePos}",
+                "PFDILADILAL": [
+                    40,
+                    100
+                ]
+            },
+            {
+                "IMJFHOBAKDI": "RQ_FILTER_NPC",
+                "OJBGDAFMKOF": "{QuestNpcID}",
+                "PFDILADILAL": []
+            },
+            {
+                "IMJFHOBAKDI": "RQ_FILTER_NPC",
+                "OJBGDAFMKOF": "{QuestNpcID2}",
+                "PFDILADILAL": []
+            }
+        ]
+    },
+    {
+        "id": 106,
+        "weight": 10,
+        "templateId": 30029,
+        "filterLogicType": "LOGIC_AND",
+        "filterList": [
+            {
+                "IMJFHOBAKDI": "RQ_FILTER_PLAYER_POS_RING",
+                "OJBGDAFMKOF": "{QuestRescuePos}",
+                "PFDILADILAL": [
+                    40,
+                    100
+                ]
+            },
+            {
+                "IMJFHOBAKDI": "RQ_FILTER_PLAYER_LEVEL",
+                "OJBGDAFMKOF": "{PlayerLevel}",
+                "PFDILADILAL": []
+            },
+            {
+                "IMJFHOBAKDI": "RQ_FILTER_NPC",
+                "OJBGDAFMKOF": "{QuestNpcID}",
+                "PFDILADILAL": []
+            }
+        ]
+    },
+    {
+        "id": 106,
+        "weight": 90,
+        "templateId": 30023,
+        "filterLogicType": "LOGIC_AND",
+        "filterList": [
+            {
+                "IMJFHOBAKDI": "RQ_FILTER_PLAYER_POS_RING",
+                "OJBGDAFMKOF": "{QuestRescuePos}",
+                "PFDILADILAL": [
+                    40,
+                    100
+                ]
+            },
+            {
+                "IMJFHOBAKDI": "RQ_FILTER_NPC",
+                "OJBGDAFMKOF": "{QuestNpcID}",
+                "PFDILADILAL": []
+            },
+            {
+                "IMJFHOBAKDI": "RQ_FILTER_NPC",
+                "OJBGDAFMKOF": "{QuestNpcID2}",
+                "PFDILADILAL": []
+            }
+        ]
+    },
+    {
+        "id": 107,
+        "weight": 10,
+        "templateId": 30030,
+        "filterLogicType": "LOGIC_AND",
+        "filterList": [
+            {
+                "IMJFHOBAKDI": "RQ_FILTER_PLAYER_POS_RING",
+                "OJBGDAFMKOF": "{QuestRescuePos}",
+                "PFDILADILAL": [
+                    40,
+                    100
+                ]
+            },
+            {
+                "IMJFHOBAKDI": "RQ_FILTER_PLAYER_LEVEL",
+                "OJBGDAFMKOF": "{PlayerLevel}",
+                "PFDILADILAL": []
+            },
+            {
+                "IMJFHOBAKDI": "RQ_FILTER_NPC",
+                "OJBGDAFMKOF": "{QuestNpcID}",
+                "PFDILADILAL": []
+            }
+        ]
+    },
+    {
+        "id": 107,
+        "weight": 90,
+        "templateId": 30023,
+        "filterLogicType": "LOGIC_AND",
+        "filterList": [
+            {
+                "IMJFHOBAKDI": "RQ_FILTER_PLAYER_POS_RING",
+                "OJBGDAFMKOF": "{QuestRescuePos}",
+                "PFDILADILAL": [
+                    40,
+                    100
+                ]
+            },
+            {
+                "IMJFHOBAKDI": "RQ_FILTER_NPC",
+                "OJBGDAFMKOF": "{QuestNpcID}",
+                "PFDILADILAL": []
+            },
+            {
+                "IMJFHOBAKDI": "RQ_FILTER_NPC",
+                "OJBGDAFMKOF": "{QuestNpcID2}",
+                "PFDILADILAL": []
+            }
+        ]
+    }
+]
